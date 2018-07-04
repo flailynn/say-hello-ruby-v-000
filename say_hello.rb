@@ -1,4 +1,4 @@
 # Build your say_hello method here
 def say_hello(name)
-  puts "Hello #{name}"# method body
+  puts "Hello #{name}!"# method body
 end
